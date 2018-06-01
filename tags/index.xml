@@ -1,14 +1,213 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on 欢迎光临何海蛟商场</title>
     <link>http://seanjoe.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on 欢迎光临何海蛟商场</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 11 May 2018 22:35:06 +0530</lastBuildDate>
     
 	<atom:link href="http://seanjoe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ambience</title>
+      <link>http://seanjoe.github.io/tags/ambience/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/ambience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black</title>
+      <link>http://seanjoe.github.io/tags/black/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Metal</title>
+      <link>http://seanjoe.github.io/tags/black-metal/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/black-metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chandeliers</title>
+      <link>http://seanjoe.github.io/tags/chandeliers/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/chandeliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contemporary</title>
+      <link>http://seanjoe.github.io/tags/contemporary/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/contemporary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool</title>
+      <link>http://seanjoe.github.io/tags/cool/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cozy</title>
+      <link>http://seanjoe.github.io/tags/cozy/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/cozy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edison Bulb</title>
+      <link>http://seanjoe.github.io/tags/edison-bulb/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/edison-bulb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filament Bulb</title>
+      <link>http://seanjoe.github.io/tags/filament-bulb/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/filament-bulb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor Light</title>
+      <link>http://seanjoe.github.io/tags/floor-light/</link>
+      <pubDate>Sat, 12 May 2018 15:48:00 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/floor-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glass</title>
+      <link>http://seanjoe.github.io/tags/glass/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green</title>
+      <link>http://seanjoe.github.io/tags/green/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor</title>
+      <link>http://seanjoe.github.io/tags/indoor/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/indoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light</title>
+      <link>http://seanjoe.github.io/tags/light/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metal</title>
+      <link>http://seanjoe.github.io/tags/metal/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern</title>
+      <link>http://seanjoe.github.io/tags/modern/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/modern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pendant Light</title>
+      <link>http://seanjoe.github.io/tags/pendant-light/</link>
+      <pubDate>Thu, 10 May 2018 20:17:46 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/pendant-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Round</title>
+      <link>http://seanjoe.github.io/tags/round/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/round/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rustic</title>
+      <link>http://seanjoe.github.io/tags/rustic/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/rustic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vintage</title>
+      <link>http://seanjoe.github.io/tags/vintage/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/vintage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall Light</title>
+      <link>http://seanjoe.github.io/tags/wall-light/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/wall-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White</title>
+      <link>http://seanjoe.github.io/tags/white/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/tags/white/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -3,17 +3,221 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://seanjoe.github.io/products/modo-21-lamp/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/duke/</loc>
+    <lastmod>2018-05-12T15:48:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/oda-lamp/</loc>
+    <lastmod>2018-05-12T13:50:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/alessa/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/void-pendant/</loc>
+    <lastmod>2018-05-10T20:17:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/retro-vintage-industrial-cage-pendant-system/</loc>
+    <lastmod>2018-05-10T20:11:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/industrial-mesh-cage-wall-light-metal-mesh-up/</loc>
+    <lastmod>2018-05-10T20:00:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/azure-blue-de-stijl-bedside-retro-light-with-black-ring/</loc>
+    <lastmod>2018-05-10T08:02:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/ambience/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/black/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/black-metal/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://seanjoe.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://seanjoe.github.io/</loc>
+    <loc>http://seanjoe.github.io/tags/chandeliers/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/categories/chandeliers/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/contemporary/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/cool/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/cozy/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/edison-bulb/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/filament-bulb/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/floor-light/</loc>
+    <lastmod>2018-05-12T15:48:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/categories/floor-light/</loc>
+    <lastmod>2018-05-12T15:48:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/glass/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/green/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/indoor/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/light/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/metal/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/modern/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/pendant-light/</loc>
+    <lastmod>2018-05-10T20:17:46+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/categories/pendant-light/</loc>
+    <lastmod>2018-05-10T20:17:46+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/products/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/round/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/rustic/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://seanjoe.github.io/tags/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/vintage/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/wall-light/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/categories/wall-light/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/tags/white/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seanjoe.github.io/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
     <priority>0</priority>
   </url>
   

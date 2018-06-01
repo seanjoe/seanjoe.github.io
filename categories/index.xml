@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on 欢迎光临何海蛟商场</title>
     <link>http://seanjoe.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on 欢迎光临何海蛟商场</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="http://seanjoe.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chandeliers</title>
+      <link>http://seanjoe.github.io/categories/chandeliers/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/categories/chandeliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor Light</title>
+      <link>http://seanjoe.github.io/categories/floor-light/</link>
+      <pubDate>Sat, 12 May 2018 15:48:00 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/categories/floor-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pendant Light</title>
+      <link>http://seanjoe.github.io/categories/pendant-light/</link>
+      <pubDate>Thu, 10 May 2018 20:17:46 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/categories/pendant-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall Light</title>
+      <link>http://seanjoe.github.io/categories/wall-light/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://seanjoe.github.io/categories/wall-light/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
